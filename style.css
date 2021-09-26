@@ -1,0 +1,21 @@
+*{background-color: rgb(174, 199, 199);}
+
+h1{
+    color: rgb(158, 77, 12);
+    font-family: copperplate, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2{
+    color: rgb(158, 77, 12);
+    font-size: 35px;
+    font-family: copperplate, sans-serif;
+}
+
+p,
+li{
+    color: seagreen;
+    font-family: monospace;
+    font-size: 20px;
+}
